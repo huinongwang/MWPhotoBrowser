@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/MWPhotoProtocol.h
+../../../../../PodSourceFiles/Classes/MWPhotoProtocol.h

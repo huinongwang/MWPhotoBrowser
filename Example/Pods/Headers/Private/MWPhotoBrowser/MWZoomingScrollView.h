@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/MWZoomingScrollView.h
+../../../../../PodSourceFiles/Classes/MWZoomingScrollView.h

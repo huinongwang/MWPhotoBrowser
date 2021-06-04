@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/MWCaptionView.h
+../../../../../PodSourceFiles/Classes/MWCaptionView.h

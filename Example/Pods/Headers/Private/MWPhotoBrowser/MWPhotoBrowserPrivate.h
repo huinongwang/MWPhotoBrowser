@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/MWPhotoBrowserPrivate.h
+../../../../../PodSourceFiles/Classes/MWPhotoBrowserPrivate.h

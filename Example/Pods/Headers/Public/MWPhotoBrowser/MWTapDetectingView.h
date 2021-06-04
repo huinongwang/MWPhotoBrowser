@@ -1,1 +1,1 @@
-../../../../../Pod/Classes/MWTapDetectingView.h
+../../../../../PodSourceFiles/Classes/MWTapDetectingView.h

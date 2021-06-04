@@ -2,15 +2,14 @@
 //  main.m
 //  MWPhotoBrowser
 //
-//  Created by Michael Waterfall on 07/04/2015.
-//  Copyright (c) 2015 Michael Waterfall. All rights reserved.
+//  Created by 杨永正 on 2019/3/13.
+//  Copyright © 2019年 yangyongzheng. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 #import "AppDelegate.h"
 
-int main(int argc, char * argv[])
-{
+int main(int argc, char * argv[]) {
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
